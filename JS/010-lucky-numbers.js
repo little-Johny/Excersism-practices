@@ -9,7 +9,8 @@ You will build two helper functions for new number games on Kojos' website
 and a third one to validate some input the user can enter.
 */
 
-// Firts Point:
+// Firts Point: 
+
 /**
  * Calculates the sum of the two input arrays.
  *
